@@ -1,4 +1,4 @@
-﻿using Raylib_cs;
+using Raylib_cs;
 using System.Numerics;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Threading;
@@ -269,11 +269,11 @@ namespace Main
                         for (int i = 0; i < enemiesSpawned; i++)
                         {
 
-/*
+
                             if (circlePosition.X < (circles[i].position.X + circles[i].scale) && (circlePosition.X + circleScale.X) > circles[i].position.X
 
                                  && circlePosition.Y < (circles[i].position.Y + circles[i].scale) && (circlePosition.Y + circleScale.Y) > circles[i].position.Y) colliding = true;
-*/
+
 
 
                         }
