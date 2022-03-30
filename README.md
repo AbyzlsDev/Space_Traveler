@@ -1,3 +1,3 @@
 # Space_Traveler
 
-I made this game in 3 days in between school. Please enjoy. 
+I made this game with Raylib in 3 days in between school. Please enjoy. 
